@@ -6,6 +6,9 @@ the code helps in some way.
 This document is an overview and explanation of each section of the code. I have tried my 
 best to include how it works and key features but please bear in mind I'm a beginner.
 
+Very simple GUI Python music player,mostly to prove to myself I could do it. If this helps 
+anyone else learning Python, job done. 
+
 # TKINTER MUSIC PLAYER 4.0 
 
 ## 1. Importing Libraries and Initialization
